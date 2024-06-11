@@ -40,6 +40,8 @@ In this project, we use different reinforcement learning algorithm to let the tr
 ## Results
 ![Untitled video - Made with Clipchamp (1)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/a90a1b93-2b6b-48c8-9c08-bba0c9f591f0) 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/e2526d7a-dee9-47bd-8c4d-4b1bd22535b4)
+![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/33a1d906-98a9-4a4c-b48a-7f1995ec248b)
+
 
 ## References
 https://assetstore.unity.com/packages/3d/vehicles/land/single-detailed-truck-895
