@@ -25,5 +25,9 @@ In this project, we use different reinforcement learning algorithm to let the tr
 - PyTorch==2.2.2+cu121
 - ml-agents==0.30.0
 ## Usage
-[file](https://github.com/ianthefish/Truck-Parking-AI/blob/main/file.md)
+[file](https://github.com/ianthefish/Truck-Parking-AI/blob/main/file.md)\
+click the link above and download the Unity project and the truck parking which is used to train the model.
+- Install Unity 2022.3.4f1 and open the Unity project
+The requirment unity package have contain in the project.
+
 
