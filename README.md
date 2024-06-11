@@ -44,10 +44,10 @@ In this project, we use different reinforcement learning algorithm to let the tr
 
 
 ## References
-https://assetstore.unity.com/packages/3d/vehicles/land/single-detailed-truck-895
-https://github.com/Unity-Technologies/ml-agents
-https://www.youtube.com/playlist?list=PLyh3AdCGPTSLg0PZuD1ykJJDnC1mThI42
-https://www.tutorialspoint.com/unity/index.htm
+https://assetstore.unity.com/packages/3d/vehicles/land/single-detailed-truck-895 \
+https://github.com/Unity-Technologies/ml-agents \
+https://www.youtube.com/playlist?list=PLyh3AdCGPTSLg0PZuD1ykJJDnC1mThI42 \
+https://www.tutorialspoint.com/unity/index.htm \
 https://ieeexplore.ieee.org/document/9590169
 
 
