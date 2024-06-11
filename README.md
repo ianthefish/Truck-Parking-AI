@@ -19,16 +19,21 @@ In this project, we use different reinforcement learning algorithm to let the tr
 ![Untitled video - Made with Clipchamp (1)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/a90a1b93-2b6b-48c8-9c08-bba0c9f591f0) 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/e2526d7a-dee9-47bd-8c4d-4b1bd22535b4)
 
-
 ## Prerequisite
 - Python==3.9
 - tensorflow==2.16.1
 - PyTorch==2.2.2+cu121
 - ml-agents==0.30.0
+  
 ## Usage
-[file](https://github.com/ianthefish/Truck-Parking-AI/blob/main/file.md)\
-click the link above and download the Unity project and the truck parking which is used to train the model.
-- Install Unity 2022.3.4f1 and open the Unity project
-The requirment unity package have contain in the project.
+### Here's how to play with the project
+1. Download Unity project and mlagent tools from: [file](https://github.com/ianthefish/Truck-Parking-AI/blob/main/file.md)
+2. `Open Unity project`
+3. If you want to train the agent:
+   - Use cmd, go to `TruckParking` folder
+   - If you want to use PPO algorithm`mlagents-learn.exe .\config\ppo\TruckControl.yaml --run-id=RUNID`
+   - If you want to use SAC algorithm`mlagents-learn.exe .\config\sac\truck.yaml --run-id=RUNID`
+4. If you want to use trained model, drag `oxnn` into `Model` in the `Behavior Parameter`: ![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/d7a5d78a-1434-4996-95bb-31c137bbe106)
+5. Enjoy truck driving~~!
 
 
