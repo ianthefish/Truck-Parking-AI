@@ -34,7 +34,7 @@ In this project, we use different reinforcement learning algorithm to let the tr
    - Use cmd, go to `TruckParking` folder
    - If you want to use PPO algorithm`mlagents-learn.exe .\config\ppo\TruckControl.yaml --run-id=RUNID`
    - If you want to use SAC algorithm`mlagents-learn.exe .\config\sac\TruckControl.yaml --run-id=RUNID`
-4. If you want to use trained model, drag [`oxnn`]() into `Model` in the `Behavior Parameter`: ![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/d7a5d78a-1434-4996-95bb-31c137bbe106)
+4. If you want to use trained model, drag [`oxnn`](https://github.com/ianthefish/Truck-Parking-AI/tree/main/TrainedNetwork) into `Model` in the `Behavior Parameter`: ![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/d7a5d78a-1434-4996-95bb-31c137bbe106)
 5. Enjoy truck driving~~!
 
 ## Results
@@ -44,4 +44,8 @@ In this project, we use different reinforcement learning algorithm to let the tr
 ## References
 https://assetstore.unity.com/packages/3d/vehicles/land/single-detailed-truck-895
 https://github.com/Unity-Technologies/ml-agents
+https://www.youtube.com/playlist?list=PLyh3AdCGPTSLg0PZuD1ykJJDnC1mThI42
+https://www.tutorialspoint.com/unity/index.htm
+https://ieeexplore.ieee.org/document/9590169
+
 
