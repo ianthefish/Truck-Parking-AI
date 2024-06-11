@@ -33,8 +33,8 @@ In this project, we use different reinforcement learning algorithm to let the tr
 3. If you want to train the agent:
    - Use cmd, go to `TruckParking` folder
    - If you want to use PPO algorithm`mlagents-learn.exe .\config\ppo\TruckControl.yaml --run-id=RUNID`
-   - If you want to use SAC algorithm`mlagents-learn.exe .\config\sac\truck.yaml --run-id=RUNID`
-4. If you want to use trained model, drag `oxnn` into `Model` in the `Behavior Parameter`: ![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/d7a5d78a-1434-4996-95bb-31c137bbe106)
+   - If you want to use SAC algorithm`mlagents-learn.exe .\config\sac\TruckControl.yaml --run-id=RUNID`
+4. If you want to use trained model, drag [`oxnn`]() into `Model` in the `Behavior Parameter`: ![image](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/d7a5d78a-1434-4996-95bb-31c137bbe106)
 5. Enjoy truck driving~~!
 
 ## Results
