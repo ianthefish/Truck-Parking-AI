@@ -25,4 +25,5 @@ In this project, we use different reinforcement learning algorithm to let the tr
 - PyTorch==2.2.2+cu121
 - ml-agents==0.30.0
 ## Usage
+[file](https://github.com/ianthefish/Truck-Parking-AI/blob/main/file.md)
 
