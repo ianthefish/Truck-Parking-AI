@@ -17,6 +17,7 @@ Model downloaded from: https://assetstore.unity.com/packages/3d/vehicles/land/si
 ### Project goal:
 In this project, we use different reinforcement learning algorithm to let the truck agent park into the parking spot.
 ![Untitled video - Made with Clipchamp (1)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/a90a1b93-2b6b-48c8-9c08-bba0c9f591f0)
+![Untitled video - Made with Clipchamp (2)](https://github.com/ianthefish/Truck-Parking-AI/assets/72810883/2b2ae695-565f-4b9d-9fc0-c17f993dd8c8)
 
 
 ## Prerequisite
